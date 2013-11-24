@@ -1,5 +1,6 @@
 package com.tema.algo.problems;
 
+//TODO: check levels
 public class CheckBSTProblem {
 
     public boolean isBST(Node root){
